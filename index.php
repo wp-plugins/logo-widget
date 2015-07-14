@@ -3,7 +3,7 @@
  * Plugin Name: Logo Widget
  * Plugin URI: http://c1.com.pl/
  * Description: Adds custom logos widgets - images with links
- * Version: 0.2.1
+ * Version: 0.2.2
  * Author: Mateusz Paulski
  * Author URI: http://c1.com.pl
  */
