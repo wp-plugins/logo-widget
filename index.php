@@ -20,7 +20,7 @@ if (!class_exists('c1_logo_widget')) {
         {
             $widget_ops = array(
                 'classname' => 'c1-logo-widget c1-logo',
-                'description' => __('Adds custom logos widgets - images with links', 'c1-plugin')
+                'description' => __('Adds custom logo widget - images with links.', 'c1-plugin')
             );
             $control_ops = array(
                 'width' => 300,
@@ -144,7 +144,8 @@ if (!class_exists('c1_logo_widget')) {
             </p>
             <hr style="margin-top:20px;">
             <p style="text-align: center; font-size:12px;">
-                Like our plugin? <strong>Donate</strong>
+                <?php _e('Like our plugin? <strong>Donate</strong>', 'c1-plugin'); ?>
+
                 <a href="https://www.paypal.com/pl/cgi-bin/webscr?cmd=_donations&business=MXQ2JW5CCA36G&item_name=C1%20Logo%20Widget&currency_code=EUR" target="_blank"><img src="<?= URL; ?>/images/paypal.png" style="vertical-align: middle;margin-left:5px;"/></a>
             </p>
             <hr style="margin-bottom:20px;">

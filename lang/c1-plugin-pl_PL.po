@@ -18,7 +18,7 @@ msgstr ""
 msgid "Logo widget"
 msgstr "Widget Logo"
 
-msgid "Adds logo widget - image with link"
+msgid "Adds custom logo widget - images with links."
 msgstr "Dodaje widget logo - obrazek z linkiem"
 
 msgid "Title:"
@@ -35,3 +35,8 @@ msgstr "Nowe okno?:"
 
 msgid "Choose image"
 msgstr "Wybierz obrazek"
+
+msgid "Like our plugin? <strong>Donate</strong>"
+msgstr "Podoba Ci się wtyczka? <strong>Wesprzyj</strong>"
+
+
